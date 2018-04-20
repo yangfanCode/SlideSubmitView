@@ -1,6 +1,6 @@
 # SlideSubmitView
 android滑块解锁的控件
-![image](https://github.com/yangfanCode/SwitchButton/blob/master/pic.png)
+![image](https://github.com/yangfanCode/SlideSubmitView/tree/master/pic.png)
 使用
  <!-- 滑动解锁控件 xml配置属性 -->
     <declare-styleable name="SlideToUnlockView">
